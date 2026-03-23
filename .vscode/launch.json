@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MP18_RemoveEmptyRows",
+            "request": "launch",
+            "mainClass": "MP18_RemoveEmptyRows",
+            "projectName": "Prog2-9302-AY225-BAUTISTA_9760207c"
+        },
+        {
+            "type": "java",
+            "name": "MP16_RandomSampler",
+            "request": "launch",
+            "mainClass": "MP16_RandomSampler",
+            "projectName": "Prog2-9302-AY225-BAUTISTA_9760207c"
+        },
+        {
+            "type": "java",
+            "name": "DeterminantSolver",
+            "request": "launch",
+            "mainClass": "DeterminantSolver",
+            "projectName": "Prog2-9302-AY225-BAUTISTA_9760207c"
+        },
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open Midterm-Lab-2.html",
+            "file": "c:\\Users\\rinamae\\OneDrive\\Desktop\\Prog2-9302-AY225-Bautista\\MIDTERM-LAB-2-3\\Prog2-9302-AY225-FABREGAS\\MIDTERM-LAB-2\\Midterm-Lab-2.html"
+        }
+    ]
+}
